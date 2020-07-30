@@ -1,16 +1,40 @@
-### Hi there 👋
+### me.properties
 
-<!--
-**marcomele/marcomele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+me:
+  info:
+    location: Chicago, IL
+    languages: 
+      - Italian
+      - English
+    education:
+      - Polytecnic Institute of Turin
+      - University of Illinois at Chicago
+      projects:
+        - Detecting Shifts in Propensity Score Stratification when using Relational Classifiers for Network Data
+        - Master Thesis: Lightweight Semantic Location and Activity Recognition on Android Smartphones with TensorFlow
+    work: PowerReviews, Inc.
+    freetime: *ref
+    interests:
+      - Crypto and Cryptocurrencies
+      - Algos
+      - Statistics
+      - Data Mining and Machine Learning
+      - LaTeX
+  certs:
+    - SumoLogic Search Master
+  coding: &ref
+    languages:
+      - Java and the SpringBoot framework
+      - Python
+      - PostgreSQL
+      - Apache Spark
+    technologies:
+      - AWS
+      - SumoLogic
+      - REST APIs
+      - TensorFlow
+    os:
+      - Linux
+      - MacOS
+```
