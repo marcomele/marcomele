@@ -13,7 +13,9 @@ me:
       projects:
         - Detecting Shifts in Propensity Score Stratification when using Relational Classifiers for Network Data
         - Master Thesis: Lightweight Semantic Location and Activity Recognition on Android Smartphones with TensorFlow
-    work: PowerReviews, Inc.
+    work:
+      - Hopscotch Research, LLC
+      - PowerReviews, Inc.
     freetime: *ref
     interests:
       - Crypto and Cryptocurrencies
