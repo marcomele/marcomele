@@ -18,9 +18,11 @@ me:
       - PowerReviews, Inc.
     freetime: *ref
     interests:
-      - Crypto and Cryptocurrencies
+      - Automation and Orchestration
       - Algos
+      - Networking
       - Statistics
+      - Crypto and Cryptocurrencies
       - Data Mining and Machine Learning
       - LaTeX
   certs:
@@ -29,10 +31,14 @@ me:
     languages:
       - Java and the SpringBoot framework
       - Python
+      - Groovy
+      - Bash
       - PostgreSQL
       - Apache Spark
     technologies:
       - AWS
+      - Jenkins
+      - Ansible
       - SumoLogic
       - REST APIs
       - TensorFlow
